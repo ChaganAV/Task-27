@@ -1,0 +1,15 @@
+C:\Projects\Code\Csharp\Task-27\bin\Debug\net6.0\Task-27.exe
+C:\Projects\Code\Csharp\Task-27\bin\Debug\net6.0\Task-27.deps.json
+C:\Projects\Code\Csharp\Task-27\bin\Debug\net6.0\Task-27.runtimeconfig.json
+C:\Projects\Code\Csharp\Task-27\bin\Debug\net6.0\Task-27.dll
+C:\Projects\Code\Csharp\Task-27\bin\Debug\net6.0\Task-27.pdb
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.csproj.AssemblyReference.cache
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.AssemblyInfoInputs.cache
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.AssemblyInfo.cs
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.dll
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\refint\Task-27.dll
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.pdb
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\Task-27.genruntimeconfig.cache
+C:\Projects\Code\Csharp\Task-27\obj\Debug\net6.0\ref\Task-27.dll
